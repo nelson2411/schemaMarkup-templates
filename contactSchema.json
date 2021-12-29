@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Munkvretsvägen 2",
+    "addressLocality": "Norrtälje",
+    "addressRegion": "Stockholm",
+    "postalCode": "761 76",
+    "addressCountry": "SE"
+  },
+  "url": "http://www.janedoe.com",
+  "email": "strings@gmail",
+  "telephone": "850-648-4200"
+}

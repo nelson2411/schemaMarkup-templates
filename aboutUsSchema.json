@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "LocalBusiness",
+  "name": "SINFRENOS AB",
+  "description": "Description here",
+  "image": "https://www.sinfrenos.se/images/logo/LOGO%20SINFRENOS%20COLOR%20(BRIGHT%20BG).png",
+  "email": "string@gmail.com",
+  "url": "https://www.sinfrenos.se/",
+  "telephone": "+46 7125788878",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Munkvretsvägen 2",
+    "addressLocality": "Norrtälje",
+    "addressRegion": "Stockholm",
+    "postalCode": "761 76",
+    "addressCountry": "SE"
+  }
+}
